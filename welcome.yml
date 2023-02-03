@@ -1,0 +1,4 @@
+name: Post welcoem comment
+on:
+pull request:
+types: [opened]
